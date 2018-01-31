@@ -3,7 +3,7 @@ Django>=1.8
 gunicorn>=19.7
 
 # Configuration
-django-environ==0.4.3
+django-environ==0.4.4
 whitenoise==3.3.0
 django-braces==1.11.0
 
