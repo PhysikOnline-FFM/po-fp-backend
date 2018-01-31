@@ -32,7 +32,7 @@ awesome-slugify==1.6.5
 pytz==2017.3
 
 # improved REPL
-ipython==5.4.1 
+ipython==6.2.1 
 ipdb==0.10.3
 
 django-extensions==1.8.1
