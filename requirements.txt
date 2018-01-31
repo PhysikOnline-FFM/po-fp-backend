@@ -29,7 +29,7 @@ mysqlclient==1.3.12
 awesome-slugify==1.6.5
 
 # Time zones support
-pytz==2017.2
+pytz==2017.3
 
 # improved REPL
 ipython==5.4.1 
