@@ -42,7 +42,7 @@ django-import-export==0.7.0
 tablib==0.12.1
 
 # Django REST framework
-djangorestframework==3.6.3
+djangorestframework==3.7.7
 markdown==2.6.8
 django-filter==1.0.4
 
